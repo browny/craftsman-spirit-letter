@@ -1,4 +1,3 @@
 # craftsman-spirit-letter
 
-Weekly published news letter about what I have digested during this week.  
-Subscribe it at https://tinyletter.com/craftsman-spirit.
+Check out [issues](https://github.com/browny/craftsman-spirit-letter/issues), or [subscribe](https://tinyletter.com/craftsman-spirit) by email.
